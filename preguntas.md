@@ -10,3 +10,5 @@ Responde por escrito, con tus palabras:
 5. ¿Para qué sirve crear una rama de experimento, aunque luego se borre?
    
 6. Si descubres hoy un error cometido hace cinco commits, ¿qué haces para arreglarlo?
+
+7. Cambio manual hecho por Antonio desde GitHub
